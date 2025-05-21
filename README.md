@@ -1,2 +1,2 @@
 # team-practice
-Cさんが猫が好きです
+Cさんが犬好き
